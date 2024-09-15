@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kl3+dlufQ0vBLhcBnRPIjd+bYrNqGU2su/wkXb1OAhZ90OglIGMY/lzfmBZV2ZEu1BKEc3g925ErXBQNOEQMtQ==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\SnowFlake\\Project\\Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marco\\.nuget\\packages\\raylib-cs\\6.1.1\\raylib-cs.6.1.1.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
